@@ -1,0 +1,29 @@
+{
+  "name": "upwork-jobs-finger",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniidatsiuk/Upwork-Jobs-Finger.git"
+  },
+  "keywords": [
+    "upwork",
+    "bot",
+    "node.js"
+  ],
+  "author": "Yevhenii Datsiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniidatsiuk/Upwork-Jobs-Finger/issues"
+  },
+  "homepage": "https://github.com/evgeniidatsiuk/Upwork-Jobs-Finger#readme",
+  "dependencies": {
+    "feedsub": "^0.7.8",
+    "lowdb": "^6.1.1"
+  }
+}
